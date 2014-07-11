@@ -1,7 +1,7 @@
 <?php
 // phpinfo();
-define('PW_AUTH', 'LqmbcCgZdiUVK8RgyEwtkLDoeqkKe0FsqxWjL15xkO0u6RHky4JI2QjrVPe1P1eqeJWsICmnEmMGwVrWYzlU');
-define('PW_APPLICATION', 'C90F5-1B040');
+define('PW_AUTH', 'PW API TOKEN');
+define('PW_APPLICATION', 'PW APPLICATION CODE');
 define('PW_DEBUG', true);
  
 function pwCall($method, $data) {
